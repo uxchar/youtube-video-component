@@ -2,11 +2,11 @@
 
 ![YouTube Video Component Screenshot](./docs/images/youtube-card-screenshot.png)
 
-This project is a recreation of a YouTube video component featuring an Afro Lofi music video. The design and layout were created using HTML and CSS, with a focus on replicating YouTube's video card style. This project includes interactive buttons, video playback, and creator information. Was fun creating this as I tried to get as close as I could with the styling!
+This project is a recreation of a YouTube video component featuring an Afro Lofi music video. The design and layout were created using HTML and CSS, with a focus on replicating YouTube's video card style. This project includes video playback, and creator information. Was fun creating this as I tried to get as close as I could with the styling!
 
 ## Features
 
-- Video player that replicates YouTube’s player with basic playback controls.
+- Video player that replicates YouTube’s player.
 - Uses external Google Fonts and Material Icons for a modern UI look.
 - Responsive layout optimized for different screen sizes.
 
